@@ -1,0 +1,92 @@
+[
+  {
+    "model": "books.book",
+    "pk": 1,
+    "fields": {
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "rating": 4.22,
+      "description": "Seconds before the Earth is demolished to make way for a hyperspace bypass, Arthur Dent is plucked off the planet by his friend Ford Prefect, a researcher for the revised edition of The Hitchhiker's Guide to the Galaxy who, for the last fifteen years, has been posing as an out-of-work actor. Together this dynamic pair begin a journey through space aided by quotes from The Hitchhiker's Guide and a galaxy-full of fellow travellers: Zaphod Beeblebrox, the two-headed, three-armed ex-hippie and totally out-to-lunch President of the Galaxy; Trillian, Zaphod's girlfriend, formerly Tricia McMillan, whom Arthur once tried to chat up at a cocktail party; Marvin, a Paranoid Android suffering from severe depression; and Slartibartfast, a world-builder who won an award for the fjords.",
+      "book_url": "https://openlibrary.org/works/OL7353617W",
+      "cover_url": "https://covers.openlibrary.org/b/id/8406786-L.jpg",
+      "genres": ["Science Fiction", "Comedy", "Fiction"],
+      "pages": 224,
+      "published_year": 1979,
+      "is_embedded": false,
+      "created_at": "2024-01-01T00:00:00Z",
+      "updated_at": "2024-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "rating": 4.28,
+      "description": "The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it, To Kill A Mockingbird became both an instant bestseller and a critical success when it was first published in 1960. It went on to win the Pulitzer Prize in 1961 and was later made into an Academy Award-winning film, also a classic. Compassionate, dramatic, and deeply moving, To Kill A Mockingbird takes readers to the roots of human behavior — to innocence and experience, kindness and cruelty, love and hatred, humor and pathos.",
+      "book_url": "https://openlibrary.org/works/OL450692W",
+      "cover_url": "https://covers.openlibrary.org/b/id/8810494-L.jpg",
+      "genres": ["Fiction", "Classics", "Historical Fiction"],
+      "pages": 281,
+      "published_year": 1960,
+      "is_embedded": false,
+      "created_at": "2024-01-02T00:00:00Z",
+      "updated_at": "2024-01-02T00:00:00Z"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 3,
+    "fields": {
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "rating": 4.25,
+      "description": "Set on the desert planet Arrakis, Dune is the story of the boy Paul Atreides, heir to a noble family tasked with ruling an inhospitable world where the only thing of value is the spice melange, a drug capable of extending life and enhancing consciousness. Coveted across the known universe, melange is a prize worth killing for. When House Atreides is betrayed, the destruction of Paul's family will set the boy on a journey toward a destiny greater than he could ever have imagined. And as he evolves into the mysterious man known as Muad'Dib, he will bring to fruition humankind's most ancient and unattainable dream.",
+      "book_url": "https://openlibrary.org/works/OL818506W",
+      "cover_url": "https://covers.openlibrary.org/b/id/9255566-L.jpg",
+      "genres": ["Science Fiction", "Fantasy", "Fiction"],
+      "pages": 412,
+      "published_year": 1965,
+      "is_embedded": false,
+      "created_at": "2024-01-03T00:00:00Z",
+      "updated_at": "2024-01-03T00:00:00Z"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 4,
+    "fields": {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "rating": 4.37,
+      "description": "No matter your goals, Atomic Habits offers a proven framework for improving — every day. James Clear, one of the world's leading experts on habit formation, reveals practical strategies that will teach you exactly how to form good habits, break bad ones, and master the tiny behaviors that lead to remarkable results. If you're having trouble changing your habits, the problem isn't you. The problem is your system. Bad habits repeat themselves again and again not because you don't want to change, but because you have the wrong system for change. You do not rise to the level of your goals. You fall to the level of your systems.",
+      "book_url": "https://openlibrary.org/works/OL17930368W",
+      "cover_url": "https://covers.openlibrary.org/b/id/10519476-L.jpg",
+      "genres": ["Self-Help", "Non-Fiction", "Business"],
+      "pages": 320,
+      "published_year": 2018,
+      "is_embedded": false,
+      "created_at": "2024-01-04T00:00:00Z",
+      "updated_at": "2024-01-04T00:00:00Z"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 5,
+    "fields": {
+      "title": "The Name of the Wind",
+      "author": "Patrick Rothfuss",
+      "rating": 4.55,
+      "description": "I have stolen princesses back from sleeping barrow kings. I burned down the town of Trebon. I have spent the night with Felurian and left with both my sanity and my life. I was expelled from the University at a younger age than most people are allowed in. I tread paths by moonlight that others fear to speak of during day. I have talked to Gods, loved women, and written songs that make the minstrels weep. My name is Kvothe. You may have heard of me.",
+      "book_url": "https://openlibrary.org/works/OL8479867W",
+      "cover_url": "https://covers.openlibrary.org/b/id/6606816-L.jpg",
+      "genres": ["Fantasy", "Fiction"],
+      "pages": 662,
+      "published_year": 2007,
+      "is_embedded": false,
+      "created_at": "2024-01-05T00:00:00Z",
+      "updated_at": "2024-01-05T00:00:00Z"
+    }
+  }
+]
